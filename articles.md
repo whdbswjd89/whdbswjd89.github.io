@@ -2,7 +2,6 @@
 layout: default
 title: Your New Jekyll Site
 ---
-
 <div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">

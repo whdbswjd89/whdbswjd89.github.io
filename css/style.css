@@ -503,11 +503,11 @@ BUTTON DEFAULTS
   border-radius: 4px;
   cursor: pointer;
   margin-bottom: .5em;
-  transition: background-color 0.14s ease-in-out; }
+/*transition: background-color 0.14s ease-in-out;*/ } /*메뉴 누를때마다 색깔 변경 Yes -> No*/
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+  /*background-color: #21653f;*/ }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
@@ -706,7 +706,8 @@ LINK STYLING
 a {
   color: seagreen; }
   a:hover {
-    color: #1b5233; }
+    /*hover색깔변경 */
+    color: #df9a73; }
 
 /***************
 MENU STYLING
@@ -763,7 +764,8 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    /*버튼 색깔을 초록색에서 원하는 색깔로 변경*/
+    background-color: #df9a73; }
 
 /***************
 LIST STYLING
@@ -974,7 +976,7 @@ FOOTER STYLING
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: #21653f; }
+        fill: #df9a73; }
 
 /***************
 PAGINATION STYLING
