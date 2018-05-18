@@ -16,9 +16,7 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Categories
-   url: /categories
-
+   
 social:
    github: whdbswjd89
    email: whdbswjd89@gmail.com
