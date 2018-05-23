@@ -1,8 +1,11 @@
 ---
 layout: post
 title: What's Jekyll?
-category: 카테고리
-tags: [태그1, 태그2]
+comments: true
+tags:
+- Jekyll
+- 블로그
+- Github
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
