@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Yun's recoder 
-tagline:          'A Jekyll Theme'
-description:      'Talk is cheap,Show me the code - Linus Benedict Torvalds'
-#url:             
+tagline:          'A Jekyll theme'
+description:      'Time flowing'
+#url:              http://lanyon.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Yun'
+  #url:            
 
 paginate:         10
 
@@ -21,4 +21,4 @@ paginate:         10
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/whdbswjd89
