@@ -1,7 +1,7 @@
 # My Recoders
-============== 
->This is my blog included programming, marketing, writting
-I maded this blog by jekyll theme named Lanyon
+
+><p>This is my blog included programming, marketing, writting</p>
+ <p>I maded this blog by jekyll theme named Lanyon</p>
 
 
 ## Lanyon
