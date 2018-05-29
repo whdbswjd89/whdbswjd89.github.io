@@ -5,20 +5,23 @@ pygments:         true
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Yun's recoder 
-tagline:          'A Jekyll theme'
-description:      'Time flowing'
-#url:              http://lanyon.getpoole.com
+# Setup 
+## changed! - Setup
+title:            Yun's Recorder 
+tagline:          'dev'
+description:      'Be sensitive to chance, be ready to transform - philip kotler'
+#url:              
 
 author:
-  name:           'Yun'
+  ## changed! - name
+  name:           'Yunjeong Cho'
   #url:            
 
-paginate:         10
+paginate:         5
 
 # Custom vars
 version:          2.0.0
 
+## changed! - github address 
 github:
   repo:           https://github.com/whdbswjd89
